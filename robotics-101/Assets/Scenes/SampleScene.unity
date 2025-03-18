@@ -1142,7 +1142,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 289455649596407518, guid: 2cfb1bae80cdaa14cbf7d340d3b5b21c, type: 3}
       propertyPath: AngleOfAttack
-      value: 144.6
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 289455649596407518, guid: 2cfb1bae80cdaa14cbf7d340d3b5b21c, type: 3}
       propertyPath: robotController
