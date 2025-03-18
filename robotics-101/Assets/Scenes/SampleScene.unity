@@ -1142,7 +1142,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 289455649596407518, guid: 2cfb1bae80cdaa14cbf7d340d3b5b21c, type: 3}
       propertyPath: AngleOfAttack
-      value: 90
+      value: 144.6
       objectReference: {fileID: 0}
     - target: {fileID: 289455649596407518, guid: 2cfb1bae80cdaa14cbf7d340d3b5b21c, type: 3}
       propertyPath: robotController
@@ -1150,7 +1150,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 289455649596407518, guid: 2cfb1bae80cdaa14cbf7d340d3b5b21c, type: 3}
       propertyPath: PhysicalConnection
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1522293627068068412, guid: 2cfb1bae80cdaa14cbf7d340d3b5b21c, type: 3}
       propertyPath: m_LocalPosition.x
